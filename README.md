@@ -25,11 +25,5 @@
 Fascinado por tecnologia, e disposto a desenvolver cada vez mais com progamação.
 
 ### Últimos projetos:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
-- [O que estudar para se tornar um desenvolvedor front-end? 2022](https://youtu.be/Ab-kGzlCCWI)<br/>
-- [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
-
-
-#desenvolvi um registrador de alunos na faculdade
-#desenvolvi uma cópia da netflix completo com o framework django
+- Desenvolvi um registrador de alunos na faculdade com tkinter<br/>
+- Desenvolvi uma cópia da netflix completo com o framework django<br/>
