@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/website?label=danflix.com&style=for-the-badge&url=https://danflix.herokuapp.com/)](https://danflix.herokuapp.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daniel_lopezbr)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lopes-a5285625a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danilc344@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http//:danilc344@gmail.com)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odaniellopes&)](https://github.com/odaniellopes/github-readme-stats)
