@@ -24,6 +24,7 @@
 
 Fascinado por tecnologia, e disposto a desenvolver cada vez mais com progamação.
 
-###Últimos projetos:
+##Últimos projetos:
+
 #desenvolvi um registrador de alunos na faculdade
 #desenvolvi uma cópia da netflix completo com o framework django
