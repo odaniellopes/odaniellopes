@@ -6,8 +6,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lopes-a5285625a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danilc344@gmail.com)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odaniellopes&)](https://github.com/odaniellopes/github-readme-stats)
 ![odaniellopes GitHub stats](https://github-readme-stats.vercel.app/api?username=odaniellopes&show_icons=true&theme=radical)
+
 
 ## Tecnologias que eu uso no meu dia
 
