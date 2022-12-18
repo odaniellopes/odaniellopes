@@ -10,7 +10,7 @@
 ![odaniellopes GitHub stats](https://github-readme-stats.vercel.app/api?username=odaniellopes&show_icons=true&theme=radical)
 
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,8 +21,8 @@
   
 </div><br/>
 
-Fascinado por tecnologia, e disposto a desenvolver cada vez mais com progamação.
+Fascinated by technology, and willing to develop more and more with progamation.
 
 ### Últimos projetos:
-- Desenvolvi um registrador de alunos na faculdade com tkinter<br/>
-- Desenvolvi uma cópia da netflix completa com o framework django<br/>
+- Developed a student registrar in college with tkinter<br/>
+- Developed a copy of netflix complete with the django framework<br/>
