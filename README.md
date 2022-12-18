@@ -23,6 +23,6 @@
 
 Fascinated by technology, and willing to develop more and more with progamation.
 
-### Últimos projetos:
+### Latest projects:
 - Developed a student registrar in college with tkinter<br/>
 - Developed a copy of netflix complete with the django framework<br/>
