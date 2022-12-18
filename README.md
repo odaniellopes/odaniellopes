@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o Daniel Lopes 👋
+## Hello! I am Daniel Lopes 👋
 
 [![Blog](https://img.shields.io/website?label=danflix.com&style=for-the-badge&url=https://danflix.herokuapp.com/)](https://danflix.herokuapp.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daniel_lopezbr)
@@ -25,4 +25,4 @@ Fascinado por tecnologia, e disposto a desenvolver cada vez mais com progamaçã
 
 ### Últimos projetos:
 - Desenvolvi um registrador de alunos na faculdade com tkinter<br/>
-- Desenvolvi uma cópia da netflix completo com o framework django<br/>
+- Desenvolvi uma cópia da netflix completa com o framework django<br/>
